@@ -1,4 +1,4 @@
-- NTOU CSE
+- NTOU CSE, freshman
 - Email: tonysu1204@gmail.com
 - Discord: _ateto
 - IG: idme_1202
