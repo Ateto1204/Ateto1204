@@ -1,5 +1,5 @@
 - Software Engineer/ iOS Developer
-- NTOU CSE (since 2023)
+- NTOU CSE since 2023
 - Email: tonysu1204@gmail.com
 
 #### 
