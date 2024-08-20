@@ -1,12 +1,9 @@
 - Software Engineer/ iOS Developer
-- NTOU CSE, freshman
+- NTOU CSE (since 2023)
 - Email: tonysu1204@gmail.com
 
 #### 
 
-<p>
-    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=Ateto1204&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
-</p>
-<p>
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ateto1204&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
-</p>
+![Ateto's Github Stat](https://github-readme-stats.vercel.app/api?username=Ateto1204&show_icons=true&theme=dracula&show_border=true)
+
+![Ateto's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Ateto1204&layout=compact&theme=dracula&show_border=true&hide=html)
